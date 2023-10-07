@@ -1,0 +1,23 @@
+{
+  "citizenDetails": [
+    {
+      "name": "kalees",
+      "address": "east street",
+      "father_name": "eswaran",
+      "phone_number": "6369102812",
+      "city": "madurai",
+      "dob": "2023-10-14",
+      "state": "Tamil Nadu (TN)",
+      "country": "India",
+      "id": 1
+    }
+  ],
+  "loginDetails": [
+    {
+      "mail_id": "kalees@gmail.com",
+      "password": "Kalees@0711",
+      "phone_number": "6369102812",
+      "id": 1
+    }
+  ]
+}
